@@ -1,0 +1,2 @@
+Reloj Pomodoro hecho en interfaz gráfica con tkinter y bucles simples.
+
